@@ -40,8 +40,8 @@
     - TikTok - `TikTok`
     - 其它来源 - `OtherSources`
 2. 资料类型（可选）：
-    - 文字 - `Text`
-    - 推文 - `Post`
+    - 文字 - `Texts`
+    - 推文 - `Posts`
     - 图片 - `Images`
     - 视频 - `Videos`
 2. 发布年份
